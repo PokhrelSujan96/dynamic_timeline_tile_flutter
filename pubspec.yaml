@@ -1,0 +1,24 @@
+name: dynamic_timeline_tile_flutter
+description: "Fully Dynamic and customized timelineTile, where you can create a multi events list within the dates and customized child widgets.."
+version: 0.0.1
+homepage: https://github.com/PokhrelSujan96/dynamic_timeline_tile_flutter
+Author: Sujan Pokhrel
+
+environment:
+  sdk: '>=3.2.3 <4.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+ 
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+
+flutter:
+
+
