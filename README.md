@@ -12,7 +12,7 @@ Install Dynamic_Timeline_Flutter
 ```flutter
   cd my-project
 
-  pub add dynamic_timelinetile_flutter
+  pub add dynamic_timeline_tile_flutter
 
 ```
     
