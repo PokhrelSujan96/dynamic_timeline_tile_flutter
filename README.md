@@ -18,8 +18,8 @@ Install Dynamic_Timeline_Flutter
     
 ## Demo Video
 
+![package](https://github.com/PokhrelSujan96/flutter-video-slider/assets/127024726/93b52a7f-3359-46bd-aefe-a4d58f415c9f)
 
-![packagevideo](https://github.com/PokhrelSujan96/flutter-video-slider/assets/127024726/4e6402f7-2a21-4cd6-9dcd-13fe55877d4d)
 
 
 ## Usage / Examples
@@ -47,6 +47,29 @@ DynamicTimelineTile();
 ```flutter
 
 MultiDynamicTimelineTile();
+
+```
+This is how to use events in MultiDynamicTimelineTile
+
+```flutter
+
+MultiDynamicTimelineTile(
+
+    eventsList : [
+
+   [
+     EventCard(),
+     EventCard(),
+     EventCard(),
+   ]
+  [
+     EventCard(),
+     EventCard(),
+  ]
+    
+                ]
+
+);
 
 ```
 
